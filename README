@@ -1,0 +1,16 @@
+This is our first Java project...
+We are building a todo app using the tutorials on youtube
+Here are the libraries we have added uptill now in our project
+    1. Spring Web
+    2. Spring Data JPA
+    3. MySQL Driver
+    4. Lombok
+    5. Thymeleaf
+
+Created a database first - todoApp and configured it into application.properties file
+
+Created the following files
+    1. Repository package - TaskRepo interface
+    2. Modal Package - containing the overall task structure
+    3. Controller Package - that will take values fro service layer and display them
+    4. Service layer - that will take values from repository layer and provide it to controller layer
