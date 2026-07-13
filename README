@@ -14,3 +14,14 @@ Created the following files
     2. Modal Package - containing the overall task structure
     3. Controller Package - that will take values fro service layer and display them
     4. Service layer - that will take values from repository layer and provide it to controller layer
+
+Created the function getAllTasks() to get all the task. We mapped it with the HTML tasks page
+inside templates folder.
+
+Completed the basic structure of thymeleaf that shows task
+
+Completed the logic of adding data inside the database and display it...
+
+Completed the logic of deleting the task and tto change the status of task to completed..
+
+Added bootstrap to create the frontend...
