@@ -25,3 +25,7 @@ Completed the logic of adding data inside the database and display it...
 Completed the logic of deleting the task and tto change the status of task to completed..
 
 Added bootstrap to create the frontend...
+
+Summary of this project
+    1. Front-End is done through Thymeleaf and Bootstrap
+    2. Backend is handled by SpringBoot Framework
